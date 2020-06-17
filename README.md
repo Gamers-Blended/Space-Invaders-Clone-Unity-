@@ -1,6 +1,6 @@
 # Space-Invaders-Clone-Unity-
 A clone of the classic 1978 arcade shooting game Space Invaders by Taito built using Unity/ <br>
-References:
+Reference:
 - Code from [Stephen Barr's Making Space Invaders with Unity | Beginner Tutorial](https://www.youtube.com/watch?v=cnfwNzpoIlA) on YouTube
 
 ## Gameplay
